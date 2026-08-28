@@ -1,0 +1,12 @@
+{
+    "env": {
+        "CI": "false",
+        "DISABLE_ESLINT_PLUGIN": "true"
+    },
+    "rewrites": [
+        {
+            "source": "/((?!api/).*)",
+            "destination": "/index.html"
+        }
+    ]
+}

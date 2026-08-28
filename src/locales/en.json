@@ -1,0 +1,269 @@
+{
+  "nav": {
+    "home": "Home",
+    "comparison": "Comparison",
+    "calculator": "Calculator",
+    "howItWorks": "How It Works",
+    "security": "Security",
+    "partnerBanks": "Partner Banks",
+    "faq": "FAQ",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "openAccount": "Open Account",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "trustReviews": {
+    "rating": "4.9",
+    "ratingMax": "5",
+    "ratingText": "out of 5 stars",
+    "reviewCount": "280,000+",
+    "reviewLabel": "customer reviews",
+    "satisfaction": "96%",
+    "satisfactionLabel": "satisfied customers",
+    "verifiedPlatform": "Verified Financial Platform",
+    "secureEncryption": "Secure Data Encryption",
+    "euProtection": "EU Deposit Protection",
+    "trustedBy": "Trusted by over 50,000 European savers"
+  },
+  "hero": {
+    "title": "Compare European Savings Offers in One Place",
+    "subtitle": "Access competitive savings accounts from trusted European banks. Find the best interest rates, compare deposit terms, and grow your savings with confidence.",
+    "openAccountBtn": "Open Account",
+    "compareOffersBtn": "Compare Offers"
+  },
+  "benefits": {
+    "title": "Why Choose H68 Spar Direkt?",
+    "subtitle": "We make it simple to find and compare the best savings opportunities across Europe.",
+    "multipleBanks": {
+      "title": "Multiple Bank Access",
+      "description": "Compare offers from leading European banks all in one platform."
+    },
+    "competitiveRates": {
+      "title": "Competitive Rates",
+      "description": "Access attractive interest rates from banks across Europe."
+    },
+    "securePlatform": {
+      "title": "Secure Platform",
+      "description": "Your data is protected with bank-grade security measures."
+    },
+    "simpleProcess": {
+      "title": "Simple Process",
+      "description": "Easy comparison and direct connection to partner banks."
+    }
+  },
+  "featuredOffers": {
+    "title": "Featured Savings Offers",
+    "subtitle": "Explore our top-rated savings opportunities",
+    "interestRate": "Interest Rate",
+    "term": "Term",
+    "minDeposit": "Min. Deposit",
+    "months": "months",
+    "viewDetails": "View Details",
+    "viewAllOffers": "View All Offers",
+    "topRated": "Top Rated"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Four simple steps to better savings",
+    "step1": {
+      "title": "Create Account",
+      "description": "Sign up for free in just a few minutes"
+    },
+    "step2": {
+      "title": "Compare Offers",
+      "description": "Browse and filter savings options from multiple banks"
+    },
+    "step3": {
+      "title": "Choose Best Option",
+      "description": "Select the offer that matches your savings goals"
+    },
+    "step4": {
+      "title": "Open Account",
+      "description": "Visit the bank website to complete your application"
+    }
+  },
+  "cta": {
+    "title": "Ready to Grow Your Savings?",
+    "subtitle": "Join thousands of European savers who trust H68 Spar Direkt to find the best rates.",
+    "getStarted": "Get Started Today"
+  },
+  "trustSection": {
+    "title": "Why Trust H68 Spar Direkt?",
+    "subtitle": "Your security and peace of mind are our top priorities",
+    "depositProtection": {
+      "title": "EU Deposit Protection",
+      "description": "All partner banks are covered by national deposit guarantee schemes. Your savings are protected up to €100,000 per bank under EU regulations.",
+      "badge": "Protected up to €100,000"
+    },
+    "partnerBanks": {
+      "title": "Trusted European Banks",
+      "description": "We only work with licensed, regulated banks across Europe. Every partner undergoes thorough due diligence and compliance verification.",
+      "badge": "34+ Partner Banks"
+    },
+    "securePlatform": {
+      "title": "Secure Platform",
+      "description": "Bank-grade encryption protects your data. We never store sensitive banking credentials and use secure, encrypted connections.",
+      "badge": "256-bit SSL Encryption"
+    },
+    "transparency": {
+      "title": "Transparent Comparison",
+      "description": "No hidden fees, no sponsored rankings. Our comparison shows real rates from real banks, sorted objectively to help you find the best offer.",
+      "badge": "100% Independent"
+    },
+    "stats": {
+      "users": "50,000+",
+      "usersLabel": "Active Users",
+      "banks": "34",
+      "banksLabel": "Partner Banks",
+      "countries": "8",
+      "countriesLabel": "EU Countries",
+      "protected": "€100K",
+      "protectedLabel": "Deposit Protection"
+    }
+  },
+  "comparison": {
+    "title": "Compare Savings Offers",
+    "subtitle": "Find the best savings rates from trusted European banks",
+    "filterSort": "Filter & Sort",
+    "country": "Country",
+    "allCountries": "All countries",
+    "minInterestRate": "Min. Interest Rate (%)",
+    "maxTerm": "Max. Term (months)",
+    "maxMinDeposit": "Max. Min. Deposit (€)",
+    "sortBy": "Sort By",
+    "order": "Order",
+    "interestRate": "Interest Rate",
+    "depositTerm": "Term Length",
+    "minDeposit": "Min. Deposit",
+    "highestFirst": "Highest First",
+    "lowestFirst": "Lowest First",
+    "clearFilters": "Clear Filters",
+    "offersSelected": "offers selected for comparison",
+    "viewComparison": "View Comparison",
+    "clear": "Clear",
+    "perAnnum": "per annum",
+    "months": "months",
+    "goToBank": "Go to Bank",
+    "compare": "Compare",
+    "selected": "Selected",
+    "noOffers": "No offers match your filters. Try adjusting your criteria.",
+    "sideBySide": "Side-by-Side Comparison",
+    "feature": "Feature",
+    "depositProtection": "Deposit Protection",
+    "action": "Action",
+    "bestRate": "Best Rate"
+  },
+  "calculator": {
+    "title": "Savings Calculator",
+    "subtitle": "Calculate your potential savings growth with compound interest",
+    "yourDetails": "Your Details",
+    "initialDeposit": "Initial Deposit (€)",
+    "initialDepositHelp": "Amount you want to invest initially",
+    "annualInterestRate": "Annual Interest Rate (%)",
+    "interestRateHelp": "Expected annual interest rate",
+    "investmentDuration": "Investment Duration (months)",
+    "durationHelp": "How long you plan to invest (1-120 months)",
+    "monthlyContribution": "Monthly Contribution (€)",
+    "contributionHelp": "Optional: Additional amount you'll add each month",
+    "recalculate": "Recalculate",
+    "finalBalance": "Final Balance",
+    "interestEarned": "Interest Earned",
+    "totalInvested": "Total Invested",
+    "growthOverTime": "Growth Over Time",
+    "totalBalance": "Total Balance",
+    "summary": "Summary",
+    "summaryText": "With an initial deposit of <strong>€{{initial}}</strong> and a <strong>{{rate}}%</strong> annual interest rate:",
+    "summaryMonthly": "Adding <strong>€{{monthly}}</strong> monthly for <strong>{{duration}}</strong> months:",
+    "summaryResult": "Your savings will grow to <strong>€{{final}}</strong>, earning you <strong class=\"text-green-600\">€{{interest}}</strong> in interest."
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "welcome": "Welcome back, {{email}}",
+    "overview": "Overview",
+    "favorites": "Favorites",
+    "history": "History",
+    "profile": "Profile",
+    "savedOffers": "Saved Offers",
+    "yourFavorites": "Your favorites",
+    "bestRate": "Best Rate",
+    "inYourFavorites": "In your favorites",
+    "comparisons": "Comparisons",
+    "performedComparisons": "Performed comparisons",
+    "quickActions": "Quick Actions",
+    "compareOffers": "Compare Offers",
+    "useCalculator": "Use Calculator",
+    "viewPartnerBanks": "View Partner Banks",
+    "recentFavorites": "Recent Favorites",
+    "viewAll": "View All",
+    "noFavorites": "No favorites yet",
+    "noFavoritesText": "Start saving offers to quickly compare them later",
+    "browseOffers": "Browse Offers",
+    "noComparisons": "No comparisons found",
+    "noComparisonsText": "Your comparison history will be automatically saved when you compare offers",
+    "compareNow": "Compare Offers Now",
+    "accountInfo": "Account Information",
+    "emailAddress": "Email Address",
+    "accountType": "Account Type",
+    "memberSince": "Member Since",
+    "security": "Security",
+    "securityText": "Your account is secured with bank-grade encryption.",
+    "signOut": "Sign Out",
+    "user": "User",
+    "admin": "Administrator"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "loginSubtitle": "Login to access your H68 Spar Direkt account",
+    "createAccount": "Create Account",
+    "registerSubtitle": "Join H68 Spar Direkt to start comparing savings offers",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "passwordMinLength": "Minimum 6 characters",
+    "login": "Login",
+    "register": "Register",
+    "loggingIn": "Logging in...",
+    "creatingAccount": "Creating Account...",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "backToHome": "Back to Home",
+    "agreeToTerms": "By creating an account, you agree to our <1>Terms & Conditions</1> and <3>Privacy Policy</3>"
+  },
+  "footer": {
+    "description": "Your trusted European savings comparison platform.",
+    "bankGradeSecurity": "Bank-Grade Security",
+    "products": "Products",
+    "savingsComparison": "Savings Comparison",
+    "interestCalculator": "Interest Calculator",
+    "company": "Company",
+    "legal": "Legal",
+    "impressum": "Impressum",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "cookiePolicy": "Cookie Policy",
+    "legalDisclaimer": "Legal Disclaimer",
+    "rightsReserved": "All rights reserved."
+  },
+  "trust": {
+    "euDepositProtection": "EU Deposit Protection",
+    "upTo": "up to €100,000"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort"
+  }
+}
