@@ -93,10 +93,10 @@ const Register = () => {
               <p className="text-sm text-slate-600">
                 Bei Fragen:{' '}
                 <a
-                  href="mailto:info@h68spardirekt.com"
+                  href="mailto:info@h68-invest.de"
                   className="text-teal-600 hover:text-teal-700 font-medium"
                 >
-                  info@h68spardirekt.com
+                  info@h68-invest.de
                 </a>
               </p>
             </div>

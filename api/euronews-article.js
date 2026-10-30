@@ -195,7 +195,7 @@ const fetchHtml = async (url, timeoutMs = 9000) => {
   const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
   try {
     const response = await fetch(url, {
-      headers: { 'User-Agent': 'Mozilla/5.0 H68SparDirekt Dashboard Reader/1.0' },
+      headers: { 'User-Agent': 'Mozilla/5.0 H68Invest Dashboard Reader/1.0' },
       signal: controller.signal,
       redirect: 'follow',
     });

@@ -706,7 +706,7 @@ const SavingsComparison = () => {
             Tagesgeld: Täglich verfügbar. Sie können jederzeit ein- und auszahlen. Der Zinssatz ist variabel und passt sich dem Markt an – ideal als flexible Reserve.
             Flexgeld: Die clevere Mischung aus Festgeld und Tagesgeld. Fester Zinssatz bei gleichzeitiger Flexibilität (vorzeitige Verfügbarkeit möglich).
 
-            Über h68spardirekt.com erhalten Sie attraktive Angebote bei etablierten deutschen und europäischen Banken. Bei allen drei Varianten sind Ihre Einlagen bis 100.000 € pro Bank gesetzlich abgesichert.
+            Über h68-invest.de erhalten Sie attraktive Angebote bei etablierten deutschen und europäischen Banken. Bei allen drei Varianten sind Ihre Einlagen bis 100.000 € pro Bank gesetzlich abgesichert.
             Möchten Sie herausfinden, welche Form am besten zu Ihnen passt? Nutzen Sie unseren Sparrechner oder vereinbaren Sie einen unverbindlichen Termin – wir zeigen Ihnen die aktuellen Top-Konditionen.
 
 

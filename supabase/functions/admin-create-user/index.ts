@@ -44,7 +44,7 @@ const buildProvisioningMailHtml = ({
     <h2 style="margin:0 0 10px;color:#0B1E33">Ihr Konto wurde freigeschaltet</h2>
     <p style="margin:0 0 14px;font-size:15px;line-height:1.5">Sehr geehrte(r) ${escapeHtml(fullName)},</p>
     <p style="margin:0 0 14px;font-size:15px;line-height:1.6">
-      Ihr Konto bei H68 Vermögensverwaltung vitruvianinvest.com ist jetzt aktiv.
+      Ihr Konto bei H68 Vermögensverwaltung h68-invest.de ist jetzt aktiv.
       Bitte verwenden Sie beim ersten Login das unten stehende temporäre Passwort.
     </p>
     <div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:16px;margin:18px 0">
@@ -79,8 +79,8 @@ async function sendProvisioningEmail({
   const sender =
     Deno.env.get('PROVISIONING_FROM_EMAIL')
     || Deno.env.get('OTP_FROM_EMAIL')
-    || 'Vitruvian Invest <no-reply@vitruvianinvest.com>';
-  const loginUrl = Deno.env.get('APP_LOGIN_URL') || 'https://vitruvianinvest.com/login';
+    || 'H68 Vermögensverwaltung <info@h68-invest.de>';
+  const loginUrl = Deno.env.get('APP_LOGIN_URL') || 'https://h68-invest.de/login';
   const fullName = [firstName, lastName].filter(Boolean).join(' ').trim() || 'Kunde';
 
   const response = await fetch('https://api.resend.com/emails', {
@@ -92,7 +92,7 @@ async function sendProvisioningEmail({
     body: JSON.stringify({
       from: sender,
       to: [email],
-      subject: 'H68 Vermögensverwaltung vitruvianinvest.com - Ihr Konto ist aktiv',
+      subject: 'H68 Vermögensverwaltung h68-invest.de - Ihr Konto ist aktiv',
       html: buildProvisioningMailHtml({
         fullName,
         temporaryPassword,

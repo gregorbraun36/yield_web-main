@@ -185,7 +185,7 @@ const FAQ = () => {
       questions: [
         {
           question: 'Wie erreiche ich den H68 Spar Direkt Support?',
-          answer: 'Sie können uns auf verschiedenen Wegen erreichen: Per E-Mail an info@h68spardirekt.com (Antwort innerhalb von 24 Stunden), über unser Kontaktformular auf der Website, oder telefonisch während unserer Geschäftszeiten (Mo-Fr 9-18 Uhr). Wir helfen Ihnen gerne bei allen Fragen zur Plattform.'
+          answer: 'Sie können uns auf verschiedenen Wegen erreichen: Per E-Mail an info@h68-invest.de (Antwort innerhalb von 24 Stunden), über unser Kontaktformular auf der Website, oder telefonisch während unserer Geschäftszeiten (Mo-Fr 9-18 Uhr). Wir helfen Ihnen gerne bei allen Fragen zur Plattform.'
         },
         {
           question: 'Was mache ich bei Problemen mit meinem Bankkonto?',
@@ -428,10 +428,10 @@ const FAQ = () => {
                 <h3 className="font-semibold text-slate-900 mb-2">Per E-Mail</h3>
                 <p className="text-slate-600 text-sm mb-3">Antwort innerhalb von 24 Stunden</p>
                 <a 
-                  href="mailto:info@h68spardirekt.com" 
+                  href="mailto:info@h68-invest.de" 
                   className="text-teal-600 font-medium hover:text-teal-700 transition-colors"
                 >
-                  info@h68spardirekt.com
+                  info@h68-invest.de
                 </a>
               </div>
 

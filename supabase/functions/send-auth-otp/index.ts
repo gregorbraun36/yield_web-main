@@ -12,7 +12,7 @@ const corsHeaders = {
 
 const htmlTemplate = (code: string, purpose: string) => `
   <div style="font-family:Arial,sans-serif;max-width:520px;margin:0 auto;padding:24px;color:#0f172a">
-    <h2 style="margin:0 0 12px;color:#0B1E33">Vitruvian Invest Sicherheitscode</h2>
+    <h2 style="margin:0 0 12px;color:#0B1E33">H68 Vermögensverwaltung Sicherheitscode</h2>
     <p style="margin:0 0 16px;font-size:14px;line-height:1.5">
       Bitte verwenden Sie den folgenden OTP-Code, um den Login (${purpose}) abzuschließen.
       Der Code ist 10 Minuten gültig.
@@ -41,7 +41,7 @@ Deno.serve(async (req) => {
     }
 
     const resendApiKey = Deno.env.get('RESEND_API_KEY');
-    const sender = Deno.env.get('OTP_FROM_EMAIL') || 'Vitruvian Invest <no-reply@vitruvianinvest.com>';
+    const sender = Deno.env.get('OTP_FROM_EMAIL') || 'H68 Vermögensverwaltung <info@h68-invest.de>';
     if (!resendApiKey) {
       return new Response(JSON.stringify({ error: 'RESEND_API_KEY is not configured' }), {
         status: 500,
@@ -58,7 +58,7 @@ Deno.serve(async (req) => {
       body: JSON.stringify({
         from: sender,
         to: [targetEmail],
-        subject: 'Ihr OTP-Code für Vitruvian Invest',
+        subject: 'Ihr OTP-Code für H68 Vermögensverwaltung',
         html: htmlTemplate(otp, purpose),
       }),
     });

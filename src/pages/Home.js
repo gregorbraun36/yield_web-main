@@ -305,10 +305,10 @@ const Home = () => {
               <span>Einlagensicherung</span>
             </div>
             <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 mb-4">
-              Warum h68spardirekt.com vertrauen?
+              Warum h68-invest.de vertrauen?
             </h2>
             <p className="text-xl leading-relaxed text-slate-600 max-w-3xl mx-auto">
-              h68spardirekt.com ist die Marke der H68 Vermögensverwaltung. Ihre Sicherheit und Ihr Seelenfrieden haben für uns höchste Priorität.
+              h68-invest.de ist die Marke der H68 Vermögensverwaltung. Ihre Sicherheit und Ihr Seelenfrieden haben für uns höchste Priorität.
               Als reiner Vermittler bringen wir Sie ausschließlich mit etablierten Banken zusammen. Wir selbst bieten keine eigenen Finanzprodukte an und erbringen
               reine Vermittlungsdienstleistungen. Ihre Einlagen und Kapitalerträge sind deshalb bei unseren Partnerbanken durch die gesetzliche Einlagensicherung
               und die strenge Aufsicht einer Finanzaufsichtsbehörde geschützt.

@@ -36,9 +36,9 @@ const Legal = () => {
           <section>
             <h2 className="text-2xl font-semibold text-[#0B1E33] mb-4">Kontakt (Hauptsitz)</h2>
             <p>
-               <a href="tel:+4930544480850" className="text-green-600 hover:underline">+49 30 544 480 850</a><br />
-               <a href="mailto:info@h68spardirekt.com" className="text-green-600 hover:underline">info@h68spardirekt.com</a><br />
-               <a href="https://www.h68spardirekt.com" className="text-green-600 hover:underline" target="_blank" rel="noopener noreferrer">www.h68spardirekt.com</a>
+               <a href="tel:+493023320761" className="text-green-600 hover:underline">+49 30 23320761</a><br />
+               <a href="mailto:info@h68-invest.de" className="text-green-600 hover:underline">info@h68-invest.de</a><br />
+               <a href="https://h68-invest.de" className="text-green-600 hover:underline" target="_blank" rel="noopener noreferrer">h68-invest.de</a>
             </p>
           </section>
 
@@ -51,8 +51,8 @@ const Legal = () => {
               Deutschland
             </p>
             <p className="mt-2">
-              <a href="tel:+4930544480850" className="text-green-600 hover:underline">+49 30 544 480 850</a><br />
-              <a href="mailto:info@h68spardirekt.com" className="text-green-600 hover:underline">info@h68spardirekt.com</a>
+              <a href="tel:+493023320761" className="text-green-600 hover:underline">+49 30 23320761</a><br />
+              <a href="mailto:info@h68-invest.de" className="text-green-600 hover:underline">info@h68-invest.de</a>
             </p>
           </section>
 
@@ -130,9 +130,9 @@ const Legal = () => {
               Deutschland
             </p>
             <p className="mt-2">
-               <a href="tel:+4930544480850" className="text-green-600 hover:underline">+49 30 544 480 850</a><br />
-               <a href="mailto:info@h68spardirekt.com" className="text-green-600 hover:underline">info@h68spardirekt.com</a><br />
-               <a href="https://www.h68spardirekt.com" className="text-green-600 hover:underline" target="_blank" rel="noopener noreferrer">www.h68spardirekt.com</a>
+               <a href="tel:+493023320761" className="text-green-600 hover:underline">+49 30 23320761</a><br />
+               <a href="mailto:info@h68-invest.de" className="text-green-600 hover:underline">info@h68-invest.de</a><br />
+               <a href="https://h68-invest.de" className="text-green-600 hover:underline" target="_blank" rel="noopener noreferrer">h68-invest.de</a>
             </p>
           </section>
 
@@ -148,7 +148,7 @@ const Legal = () => {
             
             <h3 className="text-lg font-semibold text-[#0B1E33] mb-2">a) Bei Kontaktaufnahme</h3>
             <p>
-              Wenn Sie uns kontaktieren (z. B. unter info@h68spardirekt.com), erheben wir die von Ihnen übermittelten personenbezogenen Daten (z. B. Name, E-Mail-Adresse, Telefonnummer, Inhalt Ihrer Nachricht).
+              Wenn Sie uns kontaktieren (z. B. unter info@h68-invest.de), erheben wir die von Ihnen übermittelten personenbezogenen Daten (z. B. Name, E-Mail-Adresse, Telefonnummer, Inhalt Ihrer Nachricht).
             </p>
             <p className="mt-2">
               <strong>Rechtsgrundlage:</strong> Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Bearbeitung Ihrer Anfrage) bzw. Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen oder Vertragserfüllung, falls zutreffend).
@@ -319,7 +319,7 @@ const Legal = () => {
           <section>
             <h2 className="text-2xl font-semibold text-[#0B1E33] mb-4">Wichtiger Hinweis</h2>
             <p>
-              Die auf dieser Website veröffentlichten Informationen (www.h68spardirekt.com) sind allgemeiner Natur und werden mit größtmöglicher Sorgfalt erstellt. Eine Gewähr für die Richtigkeit, Vollständigkeit, Aktualität oder Eignung für bestimmte Zwecke wird jedoch nicht übernommen.
+              Die auf dieser Website veröffentlichten Informationen (h68-invest.de) sind allgemeiner Natur und werden mit größtmöglicher Sorgfalt erstellt. Eine Gewähr für die Richtigkeit, Vollständigkeit, Aktualität oder Eignung für bestimmte Zwecke wird jedoch nicht übernommen.
             </p>
           </section>
 
@@ -379,8 +379,8 @@ const Legal = () => {
               Kienberger Allee 4<br />
               12529 Schönefeld<br />
               Deutschland<br />
-              <a href="mailto:info@h68spardirekt.com" className="text-green-600 hover:underline">info@h68spardirekt.com</a><br />
-              <a href="tel:+4930544480850" className="text-green-600 hover:underline">+49 30 544 480 850</a>
+              <a href="mailto:info@h68-invest.de" className="text-green-600 hover:underline">info@h68-invest.de</a><br />
+              <a href="tel:+493023320761" className="text-green-600 hover:underline">+49 30 23320761</a>
             </p>
             <p className="mt-2">
               mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
@@ -421,7 +421,7 @@ const Legal = () => {
                 Kienberger Allee 4<br />
                 12529 Schönefeld<br />
                 Deutschland<br />
-                 <a href="mailto:info@h68spardirekt.com" className="text-green-600 hover:underline">info@h68spardirekt.com</a>
+                 <a href="mailto:info@h68-invest.de" className="text-green-600 hover:underline">info@h68-invest.de</a>
               </p>
               <br />
               <p>

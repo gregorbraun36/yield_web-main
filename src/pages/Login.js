@@ -147,10 +147,10 @@ const Login = () => {
                 <p className="text-red-700 text-sm leading-relaxed">
                   Ihre Registrierung wurde leider nicht genehmigt. Bei Fragen wenden Sie sich an{' '}
                   <a
-                    href="mailto:info@h68spardirekt.com"
+                    href="mailto:info@h68-invest.de"
                     className="underline hover:text-red-900"
                   >
-                    info@h68spardirekt.com
+                    info@h68-invest.de
                   </a>
                 </p>
               </div>
@@ -165,10 +165,10 @@ const Login = () => {
                 <p className="text-slate-700 text-sm leading-relaxed">
                   Dieses Konto wurde geschlossen. Wenn Sie Hilfe benötigen, kontaktieren Sie{' '}
                   <a
-                    href="mailto:info@h68spardirekt.com"
+                    href="mailto:info@h68-invest.de"
                     className="underline hover:text-slate-900"
                   >
-                    info@h68spardirekt.com
+                    info@h68-invest.de
                   </a>
                   .
                 </p>

@@ -132,7 +132,7 @@ const Contact = () => {
                 <Mail size={20} className="text-[#0B1E33]" />
                 <h3 className="font-semibold text-[#0B1E33]">E-Mail</h3>
               </div>
-              <a href="mailto:info@h68spardirekt.com" className="text-slate-600 text-sm hover:underline">info@h68spardirekt.com</a>
+              <a href="mailto:info@h68-invest.de" className="text-slate-600 text-sm hover:underline">info@h68-invest.de</a>
             </div>
 
             <div className="bg-white border border-slate-200 rounded-lg p-6">
@@ -140,7 +140,7 @@ const Contact = () => {
                 <Phone size={20} className="text-[#0B1E33]" />
                 <h3 className="font-semibold text-[#0B1E33]">Telefon</h3>
               </div>
-              <p className="text-slate-600 text-sm">+49 30 544 480 850</p>
+              <p className="text-slate-600 text-sm">+49 30 23320761</p>
             </div>
 
             <div className="bg-white border border-slate-200 rounded-lg p-6">
@@ -166,7 +166,7 @@ const Contact = () => {
                 <br />
                 Deutschland
                 <br />
-                +49 30 544 480 850
+                +49 30 23320761
               </p>
             </div>
           </div>

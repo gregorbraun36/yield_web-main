@@ -5,7 +5,7 @@ export async function uploadDocumentToCloudinary(file, documentType) {
     const formData = new FormData();
     formData.append('file', file);
     formData.append('upload_preset', UPLOAD_PRESET);
-    formData.append('folder', `h68spardirekt/documents/${documentType}`);
+    formData.append('folder', `h68-invest/documents/${documentType}`);
 
     const response = await fetch(
         `https://api.cloudinary.com/v1_1/${CLOUD_NAME}/auto/upload`,

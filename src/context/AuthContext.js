@@ -175,7 +175,7 @@ export const AuthProvider = ({ children }) => {
     if (profile?.status === 'rejected') {
       await supabase.auth.signOut();
       const err = new Error(
-        'Ihre Registrierung wurde leider nicht genehmigt. Bitte kontaktieren Sie uns unter info@h68spardirekt.com.'
+        'Ihre Registrierung wurde leider nicht genehmigt. Bitte kontaktieren Sie uns unter info@h68-invest.de.'
       );
       err.status = 'rejected';
       throw err;
@@ -184,7 +184,7 @@ export const AuthProvider = ({ children }) => {
     if (profile?.status === 'deleted' || profile?.deleted_at) {
       await supabase.auth.signOut();
       const err = new Error(
-        'Dieses Konto wurde geschlossen. Bitte kontaktieren Sie uns unter info@h68spardirekt.com.'
+        'Dieses Konto wurde geschlossen. Bitte kontaktieren Sie uns unter info@h68-invest.de.'
       );
       err.status = 'deleted';
       throw err;

@@ -11,8 +11,8 @@ export default async function handler(req, res) {
   }
 
   const apiKey = process.env.RESEND_API_KEY;
-  const fromEmail = process.env.SENDER_EMAIL || 'info@h68spardirekt.com';
-  const toEmail = to || process.env.SENDER_EMAIL || 'info@h68spardirekt.com';
+  const fromEmail = process.env.SENDER_EMAIL || 'info@h68-invest.de';
+  const toEmail = to || process.env.SENDER_EMAIL || 'info@h68-invest.de';
 
   if (!apiKey) {
     console.error('RESEND_API_KEY is not set');
@@ -33,7 +33,7 @@ export default async function handler(req, res) {
         html: html.includes('h68-logo.png')
           ? html
           : `<div style="font-family:Arial,Helvetica,sans-serif;color:#0B1E33">
-               <img src="https://h68spardirekt.com/assets/logo/h68-logo.png" alt="H68 Vermögensverwaltung" height="40" style="height:40px;width:auto;margin-bottom:20px" />
+               <img src="https://h68-invest.de/assets/logo/h68-logo.png" alt="H68 Vermögensverwaltung" height="40" style="height:40px;width:auto;margin-bottom:20px" />
                ${html}
              </div>`,
       }),

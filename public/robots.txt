@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.h68spardirekt.com/sitemap.xml
+Sitemap: https://h68-invest.de/sitemap.xml

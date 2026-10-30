@@ -32,7 +32,7 @@ const UserAreaShell = ({
           <aside className="border-r border-slate-200 bg-white px-4 py-5 flex flex-col">
             <div className="pb-4 border-b border-slate-200">
               <img src="/assets/logo/h68-logo.png" alt="H68 Vermögensverwaltung" className="h-8 w-auto max-w-full" />
-              <p className="text-xs text-teal-600 mt-2">h68spardirekt.com</p>
+              <p className="text-xs text-teal-600 mt-2">h68-invest.de</p>
             </div>
 
             <nav className="mt-4 space-y-1">
@@ -70,10 +70,10 @@ const UserAreaShell = ({
                 </div>
                 <p className="text-[12px] text-slate-200 mt-0.5">Wir sind gerne für Sie da.</p>
                 <a
-                  href="tel:+4930544480850"
+                  href="tel:+493023320761"
                   className="mt-1.5 inline-block whitespace-nowrap text-[15px] font-semibold tracking-tight text-cyan-300 hover:text-cyan-200"
                 >
-                  +49 30 544 480 850
+                  +49 30 23320761
                 </a>
                 <p className="text-[11px] text-slate-200 mt-1">Mo. - Fr. 8 - 20 Uhr</p>
                 <p className="text-[11px] text-slate-200">Sa. 10 - 16 Uhr</p>
